@@ -19,6 +19,11 @@ Main files:
 - `hh_demographic.csv`: household demographic segmentation
 - `Dummyhumby_CLV.ipynb`: Python analysis notebook
 
+### Dataset
+
+The original transaction dataset is not included in this repository due to file size limitations.
+Please refer to the official dunnhumby "The Complete Journey" dataset for the original data.
+
 ## Methods
 
 - Data cleaning and aggregation
